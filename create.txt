@@ -1,3 +1,5 @@
 This is added to test the differences and the comparison tool. :)
 
 We need to alter the file in order to see how the tool works.
+
+This is the third line that I'm adding to this file.
